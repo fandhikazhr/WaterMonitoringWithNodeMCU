@@ -12,3 +12,5 @@ This project using :
    For Android : https://play.google.com/store/apps/details?id=cloud.blynk
    
    For IOS     : https://apps.apple.com/us/app/blynk-iot-new/id1559317868
+   
+This Documentation : https://medium.com/@fandhikaazhar/water-monitoring-with-nodemcu-ccc9aba776
